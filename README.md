@@ -90,8 +90,6 @@
   </div>
  
 <div align="center">
-###
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojamande0807&layout=compact&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojamande0807&theme=dark" alt="Pooja Khochare" /></p>
   </div>
