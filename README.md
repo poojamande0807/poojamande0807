@@ -4,7 +4,7 @@
   
 <hr>
   <h2 align="center">A passionate Front-End Developer</h2>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+pooja.;I+am+a+Full+Stack+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Pooja.;I+am+a+Full+Stack+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
   
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
   
@@ -83,13 +83,17 @@
 
  <div align ="center">
   <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=BinodOkheda&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BinodOkheda" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BinodOkheda&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ananyakumarisingh" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=poojamande0807&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="poojamande" /> </td>
+    
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=poojamande0807&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22" alt="poojamande" /> </td>
   </tr>
   </div>
  
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BinodOkheda&theme=dark" alt="BinodOkheda" /></p>
+###
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojamande0807&layout=compact&theme=radical)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojamande0807&theme=dark" alt="Pooja Khochare" /></p>
   </div>
 </div>
   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
