@@ -1,16 +1,37 @@
-## Hi there 👋
+# Pooja Khochare - Full Stack Developer
 
-<!--
-**poojamande0807/poojamande0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+I am a Full Stack Developer with experience in React, Node.js, MongoDB, SQL, and more. I'm passionate about building web applications and AI-powered tools.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- **React.js**
+- **HTML/CSS** (with Chakra UI and Bootstrap)
+- **JavaScript (ES6+)**
+
+### Backend
+- **Node.js**
+- **Express.js**
+- **MongoDB** (NoSQL)
+- **MySQL** (SQL)
+
+### Tools & Technologies
+- **Git & GitHub**
+- **VSCode**
+- **Firebase Authentication**
+- **Chakra UI**
+- **Redux**
+
+### Data Structures & Algorithms
+- Proficient in implementing efficient algorithms for complex problems.
+
+### Certifications
+- HackerRank Advanced SQL certified.
+- Capgemini Java Fullstack Development certified.
+
+## 💻 Projects
+
+### Apollo Sales Intelligence Platform
+- Description: Worked on creating a sales intelligence platform with advanced engagement features.
+- Technologies: HTML, CSS,
