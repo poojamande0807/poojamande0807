@@ -4,13 +4,14 @@
   
 <hr>
   <h2 align="center">A passionate Front-End Developer</h2>
+<h4>I’m motivated to become a full-stack developer by my passion for crafting seamless user experiences and solving complex challenges across front-end and back-end technologies.</h4>
+
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Pooja.;I+am+a+Full+Stack+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
   
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
   
 <div>
 <h2 align="center">💫  About Me </h2>
-<h4>I’m motivated to become a full-stack developer by my passion for crafting seamless user experiences and solving complex challenges across front-end and back-end technologies.</h4>
   <img align="right" alt="Coder Image Gif" width="400" src="https://user-images.githubusercontent.com/119415006/232788353-c644eb55-f41d-4e30-ad97-4a0b88bfbbff.png">
   
 
