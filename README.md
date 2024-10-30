@@ -10,6 +10,7 @@
   
 <div>
 <h2 align="center">💫  About Me </h2>
+<h4>I’m motivated to become a full-stack developer by my passion for crafting seamless user experiences and solving complex challenges across front-end and back-end technologies.</h4>
   <img align="right" alt="Coder Image Gif" width="400" src="https://user-images.githubusercontent.com/119415006/232788353-c644eb55-f41d-4e30-ad97-4a0b88bfbbff.png">
   
 
