@@ -17,7 +17,7 @@
 
  🌱 I’m currently learning **Node.js**.
   <br><br>
- 🤔 Check Out my <a href="https://drive.google.com/file/d/163F2-H5A_Hr44lcqBhguej2noXPDHwkQ/view">Resume</a>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1t0aIF4tgAElbeMbMwWyhQ1N2xrVVkV_O/view?usp=sharing"Resume</a>
   <br><br>
  👨‍💻  Know more about me <a href ="https://pooja-khochare-portfolio.netlify.app/">Portfolio</a>
   <br><br>
